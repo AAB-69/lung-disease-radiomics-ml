@@ -46,4 +46,6 @@ conda activate lung-radiomics
 # 4. Run main script (example)
 python src/train_evaluate.py --split 0.8
 
+```
+
 Made with ❤️ for educational purposes.
